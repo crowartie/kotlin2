@@ -1,0 +1,77 @@
+{"users":[
+  {
+    "name":"Тамара",
+    "phoneNumber":"89587829844",
+    "sex": "WOMAN"
+  },
+  {
+    "name":"Егор",
+    "phoneNumber":"89668069995",
+    "sex": "MAN"
+  },
+  {
+    "name":"Тимофей",
+    "phoneNumber":"89703777779",
+    "sex": "MAN"
+  },
+  {
+    "name":"Яков",
+    "phoneNumber":"89941013558",
+    "sex": "MAN"
+  },
+  {
+    "name":"Константин",
+    "phoneNumber":"89641242654",
+    "sex": "MAN"
+  },
+  {
+    "name":"Леонтий",
+    "phoneNumber":"89434697474",
+    "sex": "MAN"
+  },
+  {
+    "name":"Тимофей",
+    "phoneNumber":"89742872766",
+    "sex": "MAN"
+  },
+  {
+    "name":"Ксения",
+    "phoneNumber":"89957698890",
+    "sex": "WOMAN"
+  },
+ {
+    "name":"Анна",
+    "phoneNumber":"89721535173",
+    "sex": "WOMAN"
+  },
+  {
+    "name":"Марианна",
+    "phoneNumber":"89226913814",
+    "sex": "WOMAN"
+  },
+  {
+    "name":"Анжела",
+    "phoneNumber":"89473781046",
+    "sex": "WOMAN"
+  },
+ {
+    "name":"Валентин",
+    "phoneNumber":"89559921980",
+    "sex": "MAN"
+  },
+{
+    "name":"Давид",
+    "phoneNumber":"89816585874",
+    "sex": "MAN"
+  },
+{
+    "name":"Макар",
+    "phoneNumber":"89949806218",
+    "sex": "MAN"
+  },
+{
+    "name":"Римма",
+    "phoneNumber":"89249806218",
+    "sex": "WOMAN"
+  }
+]}
