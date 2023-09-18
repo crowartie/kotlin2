@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabsDemo</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="API_KEY">b295ce90978cb102cbd58f9070a25a0e</string>
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Moscow</item>
+        <item>Воронеж</item>
+    </string-array>
+</resources>
