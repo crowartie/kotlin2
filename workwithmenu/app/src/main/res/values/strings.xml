@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">work with menu</string>
+    <string name="label_button_search">Search</string>
+    <string name="label_button_changing_view">Changing view</string>
+    <string-array name="fragmentTypeDesign">
+        <item>Detail</item>
+        <item>Briefly</item>
+    </string-array>
+</resources>
