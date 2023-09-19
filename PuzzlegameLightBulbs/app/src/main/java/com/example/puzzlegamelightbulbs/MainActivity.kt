@@ -68,19 +68,14 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        // Добавляем задержку перед проверкой доски
-            if (allButtonsAreSameColor()) {
-                score++
-                scoreTextView.text = "Score: $score"
-                level++
-                size++
-                startLevel()
-            } else {
-                // Меняем цвет нажатой кнопки
-                button.setBackgroundColor(if ((button.background as ColorDrawable).color == Color.BLACK) Color.WHITE else Color.BLACK)
-            }
-        } // Задержка в миллисекундах
-
+        if (allButtonsAreSameColor()) {
+            score++
+            scoreTextView.text = "Score: $score"
+            level++
+            size++
+            startLevel()
+        }
+    }
 
     private fun allButtonsAreSameColor(): Boolean {
         val firstButtonColor = (buttons[0][0]?.background as ColorDrawable).color
